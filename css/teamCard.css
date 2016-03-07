@@ -71,7 +71,6 @@ body {
 .details li {
   font-size: 3em;
   line-height: 2em;
-  margin-top: 10%;
 }
 
 .headIcon{
@@ -83,12 +82,19 @@ body {
 }
 .name{
   text-align: center;
-  font-size: 4em;
+  font-size: 2.5em;
 }
 .personInfo img{
-  width: 80px;
-  height: 80px;
+  width: 30px;
+  height: 30px;
 }
+.headIcon{
+  width: 80%;
+  height: 80%;
+  text-align: center;
+  margin: 20px auto;
+}
+
 @media (min-width: 600px) {
   .color-list {
     /*
