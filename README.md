@@ -1,13 +1,16 @@
-<<<<<<< HEAD
-# IFE
-
-IFE 前端作业－发布专用
-
-Admin - Zhaolion
-
-=======
 # IFE-Publish
+---
 IFE 前端作业－发布专用
+-------------------
+---
 
->>>>>>> a1fe2944dc576dcae97e1b5f2ebcf808198cb076
-查看页面，请访问：http://frontbsg.github.io/IFE-Publish
+**Front-BSG**
+成员:
+石岳 [Github](https://github.com/Gilbertat)
+赵梁 [Github](https://github.com/ZhaoLion)
+蔡菁 [Github](https://github.com/helenjames)
+建洲 [Github](https://github.com/elementzhou)
+朱盛炜 [Github](https://github.com/ZhuElephant)
+
+=======Time Line=======
+[任务一：零基础HTML编码](http://frontbsg.github.io/IFE-Publish/task0101/)
