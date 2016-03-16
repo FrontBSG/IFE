@@ -1,8 +1,5 @@
 # IFE-Publish
----
 IFE 前端作业－发布专用
--------------------
----
 
 **Front-BSG**
 成员:
@@ -12,5 +9,5 @@ IFE 前端作业－发布专用
 - 建洲 [Github](https://github.com/elementzhou)
 - 朱盛炜 [Github](https://github.com/ZhuElephant)
 
-=======Time Line=======
+# =======Time Line=======
 [任务一：零基础HTML编码](http://frontbsg.github.io/IFE-Publish/task0101/)
